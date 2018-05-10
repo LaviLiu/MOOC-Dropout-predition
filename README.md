@@ -10,8 +10,7 @@ the link is
 ![svm](https://github.com/Laviyy/MOOC-Dropout-predition/blob/master/picture/svm.png)
 ![roc_svm](https://github.com/Laviyy/MOOC-Dropout-predition/blob/master/picture/roc_svm.png)
 
-logistic_regression...
-0.944986290601
+logistic_regression... 0.944986290601
              precision    recall  f1-score   support
 
           0       0.89      0.83      0.86      7439
