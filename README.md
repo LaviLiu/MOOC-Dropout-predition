@@ -5,8 +5,7 @@ The competition of KDD CUP of 2015. Predict a student on the MOOC weather dropou
 2.Develop tool eclipse
 3.main.py is the entry of the project. You should run main.py.
 4.Some files is not on the github. You can download them from BaiduCloudDisk. You can also download all the project from BaiduCloudDisk.
-the link is ![link](The file is so big. You can download them from BaiduCloudDisk.
-https://pan.baidu.com/s/1mz4B1EJI1Sy88AI107NtpA)
+the link is [link](https://pan.baidu.com/s/1mz4B1EJI1Sy88AI107NtpA)
 # Result
 ![svm](https://github.com/Laviyy/MOOC-Dropout-predition/blob/master/picture/svm.png)
 ![roc_svm](https://github.com/Laviyy/MOOC-Dropout-predition/blob/master/picture/roc_svm.png)
